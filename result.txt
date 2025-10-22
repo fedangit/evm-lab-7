@@ -1,0 +1,15 @@
+Input data:
+N = 2048
+M = 10
+
+Main1:
+Time: 142 seconds
+First standart: 1.05111
+
+Main2:
+Time: 82 seconds
+Second standart: 1.0311
+
+Main3:
+Time: 2 seconds
+Third standart: 1.00011
